@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "39586497870",
+    "project_id": "bank-86fde",
+    "storage_bucket": "bank-86fde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39586497870:android:1dbc63bd127b80682fca1f",
+        "android_client_info": {
+          "package_name": "com.example.bank1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39586497870-cjti8s647mv79nlmo3g25mlt7qtvh5lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaVW4HDAU5FpO9DJ7pyB7J9lOZhjmvl-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39586497870-cjti8s647mv79nlmo3g25mlt7qtvh5lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39586497870:android:d4d3417c349ace972fca1f",
+        "android_client_info": {
+          "package_name": "com.example.helpinghand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39586497870-cjti8s647mv79nlmo3g25mlt7qtvh5lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaVW4HDAU5FpO9DJ7pyB7J9lOZhjmvl-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39586497870-cjti8s647mv79nlmo3g25mlt7qtvh5lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
